@@ -1,5 +1,5 @@
 # FPGA-Digital-Stopwatch
-> Using Digcom 3.2V Board and Quartus II
+## Using Digcom 3.2V Board and Quartus II
 
 ## ![image](https://user-images.githubusercontent.com/70564585/209780535-1935719a-2814-430e-82ce-f26834a02855.png)
 ### [Project Feature]
